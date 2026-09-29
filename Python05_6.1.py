@@ -2,11 +2,9 @@ coisas_favoritas = {'Livro':'RedRising: Golden Son','Tipo musical':'Rock','arvor
 print(coisas_favoritas)
 
 
-# Parte 5 do script: adicionar uma nova chave e valor e printar ele
+# Parte 5 do script: adicionar uma nova chave e valor
 
 coisas_favoritas['organismo'] = 'Trichoderma'
-fav_thing = 'organismo'
-print(coisas_favoritas[fav_thing])
 
 # Parte 6 do script: Deixar o usuário escolher a chave
 chaves = coisas_favoritas.keys()
